@@ -103,7 +103,6 @@ namespace RPG.Attributes
             isDead = true;  
             GetComponent<Animator>().SetTrigger("die");
             GetComponent<ActionScheduler>().CancelCurrentAction();
-            
         }
 
         private void AwardExperience(GameObject instigator)
