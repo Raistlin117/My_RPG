@@ -10,12 +10,12 @@ PrefabInstance:
     - target: {fileID: 2061804229574611908, guid: 8d5ab468c428a8f46b00e03303779938,
         type: 3}
       propertyPath: isHoming
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2061804229574611908, guid: 8d5ab468c428a8f46b00e03303779938,
         type: 3}
       propertyPath: lifeAfterImpact
-      value: 0
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 2382964969847569001, guid: 8d5ab468c428a8f46b00e03303779938,
         type: 3}
